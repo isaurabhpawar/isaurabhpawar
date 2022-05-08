@@ -4,7 +4,7 @@
 
 
 
-Hi 👋 My name is Saurabh Pawar
+### Saurabh Pawar
 ==============================
 
 FullStack Web Developer
@@ -15,7 +15,7 @@ I've been working on various stacks, hands over embedded systems, raspberry Pi, 
 * 🌍  I'm based in Mumbai, India
 * ✉️  You can contact me at [saurabhpawar0410@gmail.com](mailto:saurabhpawar0410@gmail.com)
 * 🧠  I'm learning JAVASCRIPT
-* 🤝  I'm open to collaborating on EMBEDDED SYSTEMS, IoT
+* 🤝  I'm open to collaborating on EMBEDDED SYSTEMS, IoT, MEAN-MERN stack, MicroServices, DEVOPS.
 
 ### Skills
 
